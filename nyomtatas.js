@@ -9,4 +9,3 @@ function kalkulal(){
     //Megjelenítés
     document.getElementById('valasz').style.visibility = "visible";
 }
-
